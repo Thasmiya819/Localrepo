@@ -10,6 +10,8 @@ urban planning and smart city governance.
 This project proposes an AI-powered GeoSpatial framework that uses multi-temporal
 satellite imagery to perform pixel-wise Land Use–Land Cover (LULC) classification
 and detect land transitions over time with confidence estimation.
+## PPT link
+<a href="https://gamma.app/docs/TITLE-IdeaSprint-National-Innovation-Challenge-njnv5yo6lqwk3nh?mode=doc">Visit Example Website</a>
 
 ## MVP (Minimum Viable Product)
 - Pixel-level LULC classification for two time periods
@@ -62,4 +64,6 @@ for large-scale environmental monitoring.
 ![Pixel-level LULC maps](image.png)
 ## Pixel area is shown clearly with real images
 ![Pixel-level LULC maps](imh.png)
+
+
 
