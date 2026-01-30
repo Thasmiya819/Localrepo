@@ -63,7 +63,3 @@ for large-scale environmental monitoring.
 ## Pixel area is shown clearly with real images
 ![Pixel-level LULC maps](imh.png)
 
-1.git push 
-2.collab
-3.git ppt
-4.images add in githug
