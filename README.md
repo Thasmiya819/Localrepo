@@ -50,4 +50,8 @@ and detect land transitions over time with confidence estimation.
 The framework is replicable and can be deployed across other districts and states
 for large-scale environmental monitoring.
 
+## Pixel area is shown clearly with Maps
 ![Pixel-level LULC maps](image.png)
+## Pixel area is shown clearly with real images
+![Pixel-level LULC maps](imh.png)
+
