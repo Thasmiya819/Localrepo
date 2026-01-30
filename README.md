@@ -25,10 +25,18 @@ and detect land transitions over time with confidence estimation.
 - Built-up
 
 ## Tech Stack
-- Python
-- Remote Sensing & GIS
-- Machine Learning / Deep Learning
-- Satellite Image Processing
+
+### Frontend
+- React 18
+- Tailwind CSS
+- Framer Motion
+- React Router 
+- Lucide React
+- Leaflet.js
+### Backend
+- Managed cloud backend
+- Data management & processing logic
+- Export workflows
 
 ## Data Sources
 - Tirupati District Boundary (.shp)
