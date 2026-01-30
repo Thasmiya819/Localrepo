@@ -49,3 +49,5 @@ and detect land transitions over time with confidence estimation.
 ## Scalability
 The framework is replicable and can be deployed across other districts and states
 for large-scale environmental monitoring.
+
+![Pixel-level LULC maps](image.png)
