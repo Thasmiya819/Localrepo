@@ -1,5 +1,10 @@
 # AI-Based Pixel-Level LULC Change Detection for Tirupati
 
+## 🌐 Project Website
+Visit the project website here:  
+https://lulc-insights-india-97fbab0a.base44.app
+
+
 ## Problem
 Rapid urban expansion in Tirupati driven by pilgrimage, tourism, and infrastructure growth
 is transforming land use and land cover. Manual monitoring is slow and ineffective,
