@@ -64,8 +64,7 @@ for large-scale environmental monitoring.
 ![Pixel-level LULC maps](image.png)
 ## Pixel area is shown clearly with real images
 ![Pixel-level LULC maps](imh.png)
-## Transition matrix
-![Transition Matrix](images/transition_matrix.png)
+
 
 
 
