@@ -27,16 +27,16 @@ and detect land transitions over time with confidence estimation.
 ## Tech Stack
 
 ### Frontend
--React 18
--Tailwind CSS
--Framer Motion
--React Router 
--Lucide React
--Leaflet.js
+- React 18
+- Tailwind CSS
+- Framer Motion
+- React Router 
+- Lucide React
+- Leaflet.js
 ### Backend
--Managed cloud backend
--Data management & processing logic
--Export workflows
+- Managed cloud backend
+- Data management & processing logic
+- Export workflows
 
 ## Data Sources
 - Tirupati District Boundary (.shp)
